@@ -1,0 +1,311 @@
+2018-03-30 16:06:52,201 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-03-30 16:07:27,442 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-03-30 16:07:29,586 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-rest-service:0.1.0 @ C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\pom.xml.
+2018-03-30 16:07:31,984 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /complete/src/main/java
+2018-03-30 16:07:31,993 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /complete/src/test/java
+2018-03-30 16:07:32,961 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:07:32,961 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:07:32,961 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:07:32,965 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:07:32,966 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:07:33,986 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2018-03-30 16:07:34,329 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:07:34,329 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:07:34,329 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:07:34,332 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:07:34,332 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:08:49,919 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:08:49,921 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:08:49,921 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:08:49,931 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:08:49,932 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:08:53,154 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:08:53,155 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:08:53,156 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:08:53,166 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:08:53,167 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:08:54,632 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:08:54,633 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:08:54,634 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:08:54,645 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:08:54,646 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:10:41,463 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:10:41,464 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:10:41,464 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:10:41,467 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:10:41,467 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:10:44,613 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:10:44,613 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:10:44,613 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:10:44,616 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:10:44,616 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:10:50,383 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:10:50,383 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:10:50,383 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:10:50,388 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:10:50,388 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:11:05,966 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:11:05,966 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:11:05,966 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:11:05,972 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:11:05,977 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:11:31,378 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:11:31,384 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:11:31,384 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:11:31,397 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:11:31,398 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:13:25,694 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:13:25,695 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:13:25,695 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:13:25,698 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:13:25,698 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:13:50,425 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:13:50,425 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:13:50,425 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:13:50,429 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:13:50,429 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:14:28,517 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:14:28,517 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:14:28,517 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:14:28,520 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:14:28,521 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:18:16,783 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:18:16,784 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:18:16,784 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:18:16,787 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:18:16,787 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:21:19,702 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:21:19,702 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:21:19,702 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:21:19,705 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:21:19,705 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:21:33,736 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:21:33,736 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:21:33,737 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:21:33,741 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:21:33,742 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:21:42,781 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:21:42,781 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:21:42,782 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:21:42,785 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:21:42,785 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:22:13,652 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:22:13,652 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:22:13,652 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:22:13,659 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:22:13,659 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:22:22,965 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:22:22,966 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:22:22,966 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:22:22,968 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:22:22,968 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:22:31,240 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:22:31,241 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:22:31,241 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:22:31,243 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:22:31,244 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:22:47,044 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:22:47,044 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:22:47,045 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:22:47,054 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:22:47,054 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:22:56,783 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:22:56,783 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:22:56,784 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:22:56,786 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:22:56,786 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:23:01,351 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:23:01,351 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:23:01,351 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:23:01,351 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:23:01,351 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:23:13,418 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:23:13,418 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:23:13,418 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:23:13,420 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:23:13,420 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:23:27,988 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:23:27,988 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:23:27,992 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:23:27,993 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:23:27,993 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:23:31,377 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:23:31,377 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:23:31,378 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:23:31,379 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:23:31,379 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:23:32,467 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:23:32,467 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:23:32,467 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:23:32,467 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:23:32,467 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:24:09,710 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:24:09,710 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:24:09,710 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:24:09,710 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:24:09,710 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:24:38,346 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:24:38,346 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:24:38,346 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:24:38,349 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:24:38,349 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:26:15,158 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:26:15,159 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:26:15,159 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:26:15,161 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:26:15,161 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:26:28,590 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:26:28,590 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:26:28,590 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:26:28,594 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:26:28,594 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:27:42,957 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:27:42,957 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:27:42,957 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:27:42,959 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:27:42,959 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:29:05,797 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:29:05,798 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:29:05,798 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:29:05,799 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:29:05,799 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:30:20,387 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:30:20,387 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:30:20,388 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:30:20,390 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:30:20,390 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:32:22,955 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:32:22,955 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:32:22,955 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:32:22,957 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:32:22,957 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:32:42,989 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:32:42,989 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:32:42,989 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:32:42,992 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:32:42,992 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:32:44,953 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:32:44,953 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:32:44,953 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:32:44,953 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:32:44,953 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:32:55,603 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:32:55,603 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:32:55,603 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:32:55,619 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:32:55,619 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:33:05,895 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:33:05,895 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:33:05,895 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:33:05,895 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:33:05,895 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:33:22,382 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:33:22,382 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:33:22,382 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:33:22,398 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:33:22,398 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:33:30,250 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:33:30,250 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:33:30,250 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:33:30,253 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:33:30,253 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:33:33,954 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:33:33,954 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:33:33,955 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:33:33,958 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:33:33,958 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:34:04,696 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:34:04,696 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:34:04,696 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:34:04,696 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:34:04,696 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:34:06,995 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:34:06,995 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:34:06,995 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:34:06,995 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:34:06,995 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:34:13,406 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:34:13,409 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:34:13,409 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:34:13,412 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:34:13,412 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:36:36,738 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:36:36,738 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:36:36,738 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:36:36,746 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:36:36,746 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:36:52,755 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:36:52,755 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:36:52,755 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:36:52,755 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:36:52,755 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:37:46,067 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:37:46,067 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:37:46,067 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:37:46,067 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:37:46,067 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:38:00,033 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:38:00,033 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:38:00,033 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:38:00,033 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:38:00,033 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:38:08,237 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:38:08,237 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:38:08,237 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:38:08,237 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:38:08,237 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:38:14,438 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:38:14,443 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:38:14,443 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:38:14,445 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:38:14,445 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:38:25,933 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:38:25,933 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:38:25,933 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:38:25,947 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:38:25,947 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:38:32,578 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:38:32,578 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:38:32,578 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:38:32,594 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:38:32,594 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:38:34,636 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:38:34,636 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:38:34,636 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:38:34,652 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:38:34,652 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:38:53,449 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:38:53,449 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:38:53,449 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:38:53,449 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:38:53,449 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:39:12,657 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:39:12,657 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:39:12,657 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:39:12,657 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:39:12,657 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:39:48,646 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:39:48,646 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:39:48,646 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:39:48,647 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:39:48,647 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:40:00,905 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:40:00,905 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:40:00,905 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:40:00,909 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:40:00,909 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:40:19,406 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:40:19,406 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:40:19,406 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:40:19,406 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:40:19,406 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:41:19,077 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:41:19,077 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:41:19,077 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:41:19,077 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:41:19,077 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
+2018-03-30 16:42:03,407 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:42:03,407 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:42:03,407 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\main\resources
+2018-03-30 16:42:03,409 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-30 16:42:03,409 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\muffin2017\Documents\Universiteit\Net Computing\gs-rest-service\complete\src\test\resources
