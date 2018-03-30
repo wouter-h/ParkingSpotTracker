@@ -1,0 +1,45 @@
+package hello;
+
+import java.io.DataOutputStream;
+import java.io.IOException;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.ProtocolException;
+import java.net.URL;
+import java.nio.charset.StandardCharsets;
+
+public class TestApp {
+
+    public static void main(String[] args) {
+    	String request        = "http://localhost/greeting";
+    	URL url = null;
+		try {
+			url = new URL( request );
+		} catch (MalformedURLException e1) {
+			e1.printStackTrace();
+		}
+    	HttpURLConnection conn = null;
+		try {
+			conn = (HttpURLConnection) url.openConnection();
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}           
+    	conn.setDoOutput( true );
+    	conn.setInstanceFollowRedirects( false );
+    	try {
+			conn.setRequestMethod("GET");
+		} catch (ProtocolException e) {
+			e.printStackTrace();
+		}
+    	System.out.println("Getting here\n");
+    	try( DataOutputStream wr = new DataOutputStream( conn.getOutputStream())) {
+    		System.out.println(postData);
+    	   wr.write( postData );
+    	   wr.flush();
+    	   wr.close();
+    	} catch (IOException e) {
+    		e.printStackTrace();
+		}
+    }
+}
