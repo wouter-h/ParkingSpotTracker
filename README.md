@@ -1,8 +1,10 @@
 to install: look at google, you need powershell (if windows and (scoop ? or some other installer if you want the easy way))
 
+
 to build gradle:
 gradle clean
 gradle eclipse
+
 
 Gradle currently has some useless dependencies (javax)
 
