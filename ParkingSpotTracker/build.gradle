@@ -13,8 +13,6 @@ apply plugin: 'idea'
 apply plugin: 'org.springframework.boot'
 apply plugin: 'io.spring.dependency-management'
 
-def WEBSOCKET_VERSION = '1.0'
-
 bootJar {
     baseName = 'gs-rest-service'
     version =  '0.1.0'
@@ -28,8 +26,14 @@ sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
 dependencies {
-	compile("javax.websocket:javax.websocket-api:${WEBSOCKET_VERSION}")
     compile("org.springframework.boot:spring-boot-starter-web")
     testCompile('org.springframework.boot:spring-boot-starter-test')
     testCompile('com.jayway.jsonpath:json-path')
+	compile("javax.websocket:javax.websocket-api:1.0")
+    compile("com.h2database:h2")
+    testCompile("org.hsqldb:hsqldb:2.4.0")
+    compile("org.apache.logging.log4j:log4j-api:2.11.0")
+  	compile("org.apache.logging.log4j:log4j-core:2.11.0")
+	compile("mysql:mysql-connector-java:5.1.34")
 }
+

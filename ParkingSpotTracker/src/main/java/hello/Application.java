@@ -3,10 +3,25 @@ package hello;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import Database.ParkingSpotService;
+import ParkingSpotServer.Test;
+
 @SpringBootApplication
 public class Application {
-
+	
     public static void main(String[] args) {
-        SpringApplication.run(Application.class, args);
+    	if(false) {
+    		ParkingSpotService parkingSpotService = new ParkingSpotService();
+    		BridgeToDatabase btd = new BridgeToDatabase();
+    		btd.parkingSpotService = parkingSpotService;
+    		SpringApplication.run(Application.class, args);
+    	} else {
+    		ParkingSpotService parkingSpotService = new ParkingSpotService();
+    		BridgeToDatabase btd = new BridgeToDatabase();
+    		btd.parkingSpotService = parkingSpotService;
+    		SpringApplication.run(Application.class, args);
+    		new Test().main(null);
+    		new UserTest().main(null);
+    	}
     }
 }
