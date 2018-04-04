@@ -34,12 +34,10 @@ public class ParkingSpotConnectionHandler extends Thread {
 	}
 
 	private void handle(String input) {
-		System.out.println("Message (handle()): " + input);
 		while(true) {
 			if(!h.isMessageQueueLocked()) {
-				System.out.println("Adding to queue");
 				h.messageQueue.add(input);
-				h.releaseMessedQueueLocked();
+				h.releaseMessageQueueLocked();
 				break;
 			}
 		}

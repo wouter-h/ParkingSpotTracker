@@ -17,7 +17,6 @@ public class ExecuteQuery {
 		try {
 			stmt = con.createStatement();
 			stmt.executeUpdate(query);
-			System.out.println("Doing query: " + query);
 		} catch (SQLException e) {
 			System.out.println("Something went wrong while executing a query: " + query);
 			Logger logger = LogManager.getLogger(ParkingSpotService.class);

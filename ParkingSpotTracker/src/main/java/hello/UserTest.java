@@ -13,8 +13,6 @@ import java.nio.charset.StandardCharsets;
 import User.UserRequest;
 
 public class UserTest {
-
-	private UserRequest testRequest = new UserRequest(1000, 1000, 250);
 	
 	public static void sendParkingRequest(){
 		String urlParameters  = "?x=10&y=20&threshold=4";

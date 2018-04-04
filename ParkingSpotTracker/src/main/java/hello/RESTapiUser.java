@@ -26,24 +26,14 @@ public class RESTapiUser {
     
     @RequestMapping(value = "/parking", method = RequestMethod.POST)
     public ParkingSpot[] parking (@RequestParam Map<String, String> params) {
-    	System.out.println("received request: " + params.toString());
     	int x = Integer.parseInt(params.get("x"));
     	int y = Integer.parseInt(params.get("y"));
     	int threshold = Integer.parseInt(params.get("threshold"));
     	System.out.println("x:" + x + " y: " + y + "threshold: " + threshold);
-        /*ParkingSpot[] array = new ParkingSpot[2];
-        array[0] = new ParkingSpot(1001, new Point(2,3), 10, 20);
-        array[1] = new ParkingSpot(1002, new Point(3,4), 20, 40);
-        return array;*/
         return new ParkingSpotCalculator().findParkingSpots(new UserRequest(x, y, threshold), getParkingSpots());
     }
     
     public ParkingSpot[] getParkingSpots() {
-    	/*ParkingSpot[] array = new ParkingSpot[2];
-        array[0] = new ParkingSpot(1001, new Point(2,3), 10, 20);
-        array[1] = new ParkingSpot(1002, new Point(3,4), 20, 40);
-        return array;
-    	*/
     	ParkingSpot array[] = null;
     	ExecuteQuery eq = new ExecuteQuery();
     	BridgeToDatabase btd = new BridgeToDatabase();
@@ -60,13 +50,11 @@ public class RESTapiUser {
     		}
     	}
     	if(list == null) {
-    		System.out.println("LIST IS NULL");
     		return null;
     	} else {
     		array = new ParkingSpot[list.size()];
     		int i = 0;
     		for(ParkingSpot p : list) {
-    			System.out.println(p.toString());
     			array[i] = p;
     			++i;
     		}

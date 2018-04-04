@@ -38,10 +38,9 @@ public class InputHandler extends Thread{
 				if(!this.isMessageQueueLocked()) {
 					if(!this.messageQueue.isEmpty()) {
 						this.message = messageQueue.remove(0);
-						System.out.println("Message received: " + this.message);
 						flag = true;
 					}
-					this.releaseMessedQueueLocked();
+					this.releaseMessageQueueLocked();
 				}
 				if(flag) break;
 			}
@@ -49,7 +48,6 @@ public class InputHandler extends Thread{
 			readInput(this.message);
 			constructMessage();
 			
-			/*Hier moet je connecten en query EXECUTEN*/
 			ExecuteQuery eq = new ExecuteQuery();
 				
 		    while(true) {
@@ -67,13 +65,7 @@ public class InputHandler extends Thread{
 		// TODO Auto-generated method stub
 		Query q = new Query();
 		query = q.updateFreeSpotQuery(table_name, freespot, id);
-		//System.out.println(m);
-		/*
-		 * UPDATE table_name
-		 * SET column1 = value1, column2 = value2, ...
-		 * WHERE condition;
-		 */
-		
+			
 	}
 	
 	private void readInput(String message) {
@@ -104,7 +96,7 @@ public class InputHandler extends Thread{
 		return true;
 	}
 	
-	public synchronized void releaseMessedQueueLocked() {
+	public synchronized void releaseMessageQueueLocked() {
 		this.messageQueueLocked = false;
 	}
 

@@ -16,12 +16,11 @@ public class Test {
 	static PrintWriter out;
 	public static void main(String[] args) {
 		
-		ParkingServers s = new ParkingServers();
+		ParkingSpotServers s = new ParkingSpotServers();
 		
 		for(int i=0;i<250;i++)
 		{
 			try {
-				System.out.println("Sending an update");
 				socket = new Socket("127.0.0.1", 8000);
 				out = new PrintWriter(socket.getOutputStream(), 
 		                 true);

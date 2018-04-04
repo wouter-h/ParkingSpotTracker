@@ -28,7 +28,6 @@ public class ParkingSpotServer extends Thread{
 			//Listen
 			try {
 				Socket client = socket.accept();
-				System.out.println("Received an incoming request.");
 				new ParkingSpotConnectionHandler(client, h).start();
 				
 			} catch (IOException e) {

@@ -5,13 +5,13 @@ import java.net.ServerSocket;
 import java.util.Vector;
 
 
-public class ParkingServers{
+public class ParkingSpotServers{
 	int sockets = 10;
 	int startPort = 8000;
 	Vector<ParkingSpotServer> serverSockets;
 	ServerSocket server;
 	
-	public ParkingServers()
+	public ParkingSpotServers()
 	{
 		serverSockets = new Vector<>();
 		initializeSockets();
