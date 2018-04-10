@@ -20,8 +20,20 @@ public class Application {
     		BridgeToDatabase btd = new BridgeToDatabase();
     		btd.parkingSpotService = parkingSpotService;
     		SpringApplication.run(Application.class, args);
-    		new Test().main(null);
-    		new UserTest().main(null);
+    		//new Test().main(null);
+    		//new UserTest().main(null);
+    		new Thread()
+    		{
+    		    public void run() {
+    		    	new Test().main(null);
+    		    }
+    		}.start();
+    		new Thread()
+    		{
+    		    public void run() {
+    		    	new UserTest().main(null);
+    		    }
+    		}.start();
     	}
     }
 }

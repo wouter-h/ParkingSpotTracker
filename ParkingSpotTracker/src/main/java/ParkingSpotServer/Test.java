@@ -18,7 +18,7 @@ public class Test {
 		
 		ParkingSpotServers s = new ParkingSpotServers();
 		
-		for(int i=0;i<250;i++)
+		for(int i=0;i<100;i++)
 		{
 			try {
 				socket = new Socket("127.0.0.1", 8000);

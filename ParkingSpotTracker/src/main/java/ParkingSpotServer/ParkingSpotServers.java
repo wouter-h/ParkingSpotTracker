@@ -19,7 +19,7 @@ public class ParkingSpotServers{
 	}
 	
 	private void initializeSockets() {
-		for(int i=0;i<sockets;i++) {
+		for(int i=0;i<1;i++) {
 			try {
 				serverSockets.addElement(new ParkingSpotServer(new ServerSocket(startPort + i)));
 				serverSockets.elementAt(i).start();

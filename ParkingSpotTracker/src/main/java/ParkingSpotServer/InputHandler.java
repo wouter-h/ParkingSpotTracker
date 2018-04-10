@@ -52,6 +52,7 @@ public class InputHandler extends Thread{
 				
 		    while(true) {
 		    	if(!eq.isLocked()) {
+		    		System.out.println("Executing query: " + query);
 		    		eq.executeQuery(query);
 		    		eq.releaseLock();
 		    		break;
